@@ -6,12 +6,13 @@
 The server receives audio file, and returns the resulting text in a json dict.
 
 ## Requirements
-python3
-hamachi (for beta)
-haguichi (if using linux based system, useful as a GUI frontend for hamachi)
+**python3**
+**hamachi** (for beta)
+**haguichi** (if using linux based system, useful as a GUI frontend for hamachi)
 
-python packages:
-requests
+Python packages:
+
+**requests**
 
 ## Pre-requisites
 
