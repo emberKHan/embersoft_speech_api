@@ -21,6 +21,7 @@ requests
 ## Usage
 
 Currently, the server is running on one of our machines. To get access, join the following hamachi network:
+
 `network id: embersoft-steppe-01
 password: thereissomethingaboutus`
 
