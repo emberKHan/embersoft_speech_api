@@ -8,7 +8,9 @@ The server receives audio file, and returns the resulting text in a json dict.
 ## Requirements
 
 - **python3**
+
 ~~- **hamachi** (for beta)~~
+
 ~~- **haguichi** (if using linux based system, useful as a GUI frontend for hamachi)~~
 
 Python packages:
@@ -18,6 +20,7 @@ Python packages:
 ## Pre-requisites
 
 0. Install Python3 and python-pip
+
 ~~1. Install [hamachi](https://vpn.net/) and [haguichi](https://haguichi.net/)~~
 
 ## Usage
